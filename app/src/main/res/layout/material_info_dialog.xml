@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tvDialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margins_16"
+        android:layout_marginLeft="@dimen/margins_16"
+        android:layout_marginRight="@dimen/margins_16"
+        android:layout_marginTop="@dimen/margins_16"
+        android:textColor="@color/primary_text"
+        android:textSize="@dimen/text_large"/>
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDialogTitle"
+        android:layout_marginBottom="@dimen/margins_4"
+        android:layout_marginLeft="@dimen/margins_16"
+        android:layout_marginRight="@dimen/margins_16">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/tvDialogMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margins_4"
+                android:textColor="@color/secondary_text"
+                android:textSize="@dimen/text_medium"/>
+
+            <Button
+                android:id="@+id/btnAgree"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/tvDialogMessage"
+                android:layout_marginBottom="@dimen/margins_16"
+                android:layout_marginTop="@dimen/margins_4"
+                android:text="@string/btn_ok"
+                android:textColor="@color/theme_color"/>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
+    <!--android:background="@android:color/transparent"-->

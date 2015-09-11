@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="login">Login</string>
+    <string name="signed_out">Signed out</string>
+    <string name="app_name">School</string>
+    <string name="sms_topup_number">+3933999415252</string>
+    <string name="empty"></string>
+    <string name="signed_in_fmt">You login in</string>
+    <string name="play_services_error_fmt">Error</string>
+    <string name="signing_in">Login</string>
+    <string name="emulator_forbiden">Emulator forbiden</string>
+    <string name="title_activity_register"> Registration</string>
+    <string name="emulator_forbiden_title">Info</string>
+    <string name="cysendapiunavailable_title">Internet connection</string>
+    <string name="cysendapiunavailable"> Oops it seems there is a problem with your internet connection. Please, check your Internet connection and restart
+        the application.
+</string>
+    <string name="cysendapiunavailable_button">OK</string>
+    <string name="error_default_title">Error</string>
+    <string name="error_default_button">Close</string>
+    <string name="general_api_problem_title">Error</string>
+    <string name="general_api_problem">Unexpected error, please try again later or contact the support.</string>
+    <string name="general_api_problem_button">OK</string>
+    <string name="title_activity_enter_card_number">Enter your PIN number</string>
+    <string name="title_activity_enter_mobile_number">Mobile number</string>
+    <string name="title_activity_email_receipt_data">Your data</string>
+    <string name="title_activity_settings">User settings</string>
+    <string name="title_activity_contacts_book">Select number</string>
+    <string name="title_activity_result">Result</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_contact_us">Contact us</string>
+    <string name="action_conditions">Conditions</string>
+    <string name="action_share">Share app</string>
+    <string name="top_up_card_number">PIN number</string>
+    <string name="enter_card_number_hint">XXXXXXXXXX</string>
+    <string name="next">NEXT</string>
+    <string name="top_up_card_balance">PIN balance</string>
+    <string name="tv_mobile_phone_number">Mobile number</string>
+    <string name="tv_confirm_mobile_phone_number">Confirm mobile number</string>
+    <string name="cubacel_country_code_hint">+53</string>
+    <string name="cubacel_phone_hint">1234567</string>
+    <string name="send_top_up">SEND TOP UP</string>
+    <string name="first_name_m">*First name</string>
+    <string name="first_name">First name</string>
+    <string name="first_name_hint">John</string>
+    <string name="last_name_m">*Last name</string>
+    <string name="last_name">Last name</string>
+    <string name="last_name_hint">Smith</string>
+    <string name="email_m">*Email</string>
+    <string name="email">Email</string>
+    <string name="email_hint">john.smith@domain.com</string>
+    <string name="mobile_phone_number_hint">+123456789</string>
+    <string name="mobile_phone_number_m">*Mobile number</string>
+    <string name="mobile_phone_number">Mobile number</string>
+    <string name="topic">Topic</string>
+    <string name="message_m">*Message</string>
+    <string name="support">Support</string>
+    <string name="support_phone"><u>02 2640998</u></string>
+    <string name="support_day">Monday - Friday</string>
+    <string name="support_time">9:00 - 18:00</string>
+    <string name="send">SEND</string>
+    <string name="format_phone_hint">*Mandatory fields</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="send_another_top_up">SEND ANOTHER TOP UP</string>
+    <string name="result_share">RECOMMEND TO FRIENDS</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="transaction_id">Transaction ID</string>
+    <string name="top_up_number">Top up number</string>
+    <string name="top_up_value">Top up value</string>
+    <string name="back">BACK</string>
+    <string name="save">SAVE</string>
+    <string name="disagree">DISAGREE</string>
+    <string name="agree">AGREE</string>
+    <string name="user_info_stored">Your data was saved</string>
+    <string name="information">Information</string>
+    <string name="field_error">Please, check</string>
+    <string name="progress_title">Please wait...</string>
+    <string name="progress_message">Loading...</string>
+    <string name="result_successful">Successful top up</string>
+    <string name="result_failed">Failed top up</string>
+    <string name="result_pending">Top up in progress...</string>
+    <string name="dialog_wrong_mobile">Operator not supported </string>
+    <string name="feedback_sent">Thank you, we will contact you back shortly.</string>
+    <string name="conditions_text">
+        &lt;h1>Privacy&lt;/h1>
+Il Titolare del servizio gestisce i dati degli utilizzatori secondo quanto prescritto dalla normativa di cui al Decreto Legislativo del 30 giugno 2003 n° 196, relativo al "Codice in materia di protezione dei dati personali", che dà attuazione in Italia a Direttive dell`Unione Europea in tale materia. Il Titolare del servizio garantisce che il trattamento dei dati personali, comunque acquisiti, si svolga nel rispetto dei diritti e delle libertà fondamentali, nonché della dignità dell`interessato, con particolare riferimento alla riservatezza, all`identità personale e al diritto alla protezione dei dati personali.
+Preghiamo di consultare periodicamente e con attenzione questa pagina al fine di verificare eventuali aggiornamenti o revisioni che si dovessero rendere necessari anche al fine di recepire e/o conformarsi a normative nazionali, comunitarie, internazionali o per adeguarsi ad intervenute innovazioni tecnologiche.
+Gli aggiornamenti saranno riportati in questa pagina, e resi costantemente visibili in modo che gli interessati possano essere pienamente informati in merito all`utilizzo che viene fatto dei propri dati personali.
+Raccomandiamo di prendere visione di questa pagina ogni volta che viene visitato il sito web www.recargacubacel.it o viene utilizzata l`App RecargaCubacel.
+&lt;h1>Ricarica ora Modalità e trattamento dei dati&lt;/h1>
+Il trattamento dei dati personali avverrà, anche tramite provider esterni appositamente nominati Responsabili esterni del trattamento, con garanzia di sicurezza e di riservatezza e potrà essere effettuato oltre che con strumenti manuali anche attraverso strumenti automatizzati (sia informatici che telematici) atti a memorizzare, gestire e trasmettere i dati stessi. I dati personali saranno trattati in modo lecito e secondo correttezza, raccolti e registrati per scopi determinati, espliciti e legittimi, esatti e, se necessario, aggiornati, pertinenti, completi e non eccedenti rispetto alle finalità del trattamento, conservati in una forma che consenta l`identificazione dell`interessato per un periodo di tempo non superiore a quello necessario agli scopi per i quali essi sono stati raccolti o successivamente trattati.
+&lt;h1>Dati forniti volontariamente dall`utente&lt;/h1>
+    Il Titolare del servizio raccoglie le informazioni personali ed altri dati che vengono volontariamente inseriti nei moduli di registrazione. Tali dati possono riguardare informazioni necessarie per fornire i servizi richiesti dall`interessato, oppure servizi diversi (ad es. Newsletter) e/o per contattare l`interessato (il nome, l`indirizzo postale, eventuali altri dati personali inseriti nella missiva). L`invio facoltativo, esplicito e volontario di posta elettronica agli indirizzi indicati su questo sito comporta la successiva acquisizione dell`indirizzo del mittente, necessario per rispondere alle richieste, nonché degli eventuali altri dati personali inseriti nella missiva.
+    &lt;h1>Dati di navigazione raccolti attraverso l`utilizzo di strumenti elettronici&lt;/h1>
+    I sistemi informatici e le procedure software preposte al funzionamento del sito web www.recargacubacel.it e dell`App RecargaCubacel acquisiscono, nel corso del loro normale utilizzo, una serie di informazioni personali la cui trasmissione è implicita nell`uso dei protocolli di comunicazione di Internet (ad esempio, l`indirizzo IP dell`utente o il domain name del computer utilizzato per accedere al sito web, l`URI delle risorse richieste, l`orario della richiesta o il tempo della sessione, il metodo utilizzato per sottoporre la query al server, la dimensione dei file ricevuti in risposta alla richiesta, il codice numerico concernente lo status della risposta data dal server ed altro tipo di informazioni riguardo al sistema operativo e all`ambiente informatico dell`utente).
+    &lt;h1>Esercizio dei diritti&lt;/h1>
+    Gli utilizzatori di www.recargacubacel.it o dell`App RecargaCubacel potranno rivolgersi al Titolare del trattamento dei dati per far valere i propri diritti così come previsti dall`art. 7 del D.lgs 196/2003 n. 196 (tra cui, a mero titolo esemplificativo, il diritto di ottenere la conferma dell`esistenza di dati, la loro comunicazione in forma intelligibile, l`indicazione dell`origine dei dati, delle finalità e modalità di trattamento, l`aggiornamento, la rettifica o l`integrazione, la cancellazione, la trasformazione in forma anonima o il blocco dei dati personali trattati in violazione di legge ed in fine il diritto di opporsi, in tutto o in parte, al relativo utilizzo) mediante richiesta rivolta senza formalità tramite l`apposito modulo di contatto predisposto nel sito web.
+    &lt;h1>Titolare e responsabile del trattamento dei dati&lt;/h1>
+    Il Responsabile del trattamento dei dati è il Titolare del servizio.&lt;br/>
+    Il Titolare del servizio è:&lt;br/>
+    diemmeesse srl&lt;br/>
+    Sede legale: Via Crescenzago, 55&lt;br/>
+    20134 Milano (ITALIA)&lt;br/>
+    Tel: 02 2640998&lt;br/>
+    E-Mail: info@recargacubacel.it&lt;br />
+    &lt;h1>Condizioni e termini di utilizzo del servizio&lt;/h1>
+    I PIN Recarga Cubacel, una volta acquistati, non sono in alcun modo sostituibili o rimborsabili.
+    I PIN Recarga Cubacel possono essere utilizzati solo ed esclusivamente per ricaricare i cellulari Cubacel, possono essere utilizzati solo una volta e quindi non possono essere suddivisi in più ricariche, per quanto di importo in CUC inferiore al valore in CUC del PIN acquistato.
+    La ricarica dei cellulari con i PIN Racarga Cubacel può essere effettuata&lt;br/>
+    •	tramite accesso al sito www.recargacubacel.it&lt;br/>
+    •	tramite apposita App per Android scaricabile gratuitamente su Google Pay&lt;br/>
+    •	tramite l`invio di un SMS al numero 333 1234567 (al costo di un SMS come previsto dal piano dell`operatore telefonico utilizzato dal cellulare del
+        mittente)&lt;br/>
+    •	tramite IVR (Interactive Voice Recorder) chiamando con un qualsiasi telefono fisso o mobile il numero italiano 02 1234567 e seguendo le successive
+        istruzioni registrate, al costo di una normale chiamata ad un telefono fisso italiano (in base a quanto previsto dal piano dell`operatore telefonico utilizzato dal telefono chiamante)&lt;br/>
+    Recarga Cubacel si impegna a fornire adeguata informazione (ricevuta) per ogni singola operazione di ricarica effettuata, previo una corretta ed esaustiva registrazione nel sito o nell`App, da parte dell`utente, dei propri riferimenti.
+    In caso di utilizzo del servizio tramite SMS o IVR (solo per telefoni mobili) tale conferma (ricevuta) viene inviata tramite SMS di ritorno al numero chiamante: per poter ricevere tale SMS, l`identificativo del telefono utilizzato per effettuare la ricarica deve essere visibile (in caso di identificativo del chiamante nascosto Recarga Cubacel non può infatti in alcun modo provvedere alla spedizione dell`SMS di conferma).
+    La ricarica sul cellulare Cubacel di norma avviene, indipendentemente dal metodo utilizzato per effettuarla, contestualmente alla conclusione dell`operazione di invio della ricarica da parte del mittente: Recarga Cubacel in nessun modo può essere ritenuta responsabile di eventuali ritardi che dovessero comunque manifestarsi, nel caso imputabili unicamente all`operatore mobile ricaricato.
+    Una volta avviato da parte di Recarga Cubacel il processo di ricarica, il gestore mobile diviene l`unico responsabile delle modalità, dei tempi e della riuscita della ricarica.
+    Recarga Cubacel:&lt;br/>
+    •	non è responsabile e non offrirà alcun tipo di rimborso per eventuali perdite e/o mancate ricariche dovute all`errata digitazione del numero di
+        telefono del destinatario o all`inserimento di informazioni errate.&lt;br/>
+    •	può interrompere, cambiare o sospendere qualsiasi aspetto del sito web e dell`App in qualsiasi momento.&lt;br/>
+    •	può cambiare, interrompere o sospendere la disponibilità di qualsiasi database, contenuto, funzione o prodotto del sito.&lt;br/>
+    •	può imporre limiti su funzioni, inclusi servizi, usare o limitare l`accesso al sito, in parte o totalmente, senza preavviso o responsabilità
+        alcuna.&lt;br/>
+    Recarga Cubacel si impegna a fornire in continuità il miglior servizio possibile, compatibilmente con le complessità tecniche insite nella natura del servizio stesso e comunque in nessun modo potrà essere ritenuta responsabile di eventuali disservizi conseguenti a negligenze e/o problematiche tecniche anche momentanee dell`operatore mobile cui viene inviata la richiesta di ricarica o a interventi di manutenzione del sofware che si dovessero rendere ne necessarie.
+    &lt;h1>Promozioni dell`operatore&lt;/h1>
+    Recarga Cubacel garantisce, entro i tempi ufficialmente previsti, l`adesione a tutte le promozioni con doppia ricarica o similari che di volta in volta vengono poste in essere dall`operatore Cubacel per i propri abbonati.
+    Recarga Cubacel non è responsabile del riconoscimento della promozione al beneficiario, a carico esclusivamente dell`operatore. L`operatore può modificare e/o cancellare le promozioni in qualsiasi momento e senza alcun preavviso, senza quindi che Racarga Cubacel possa in alcun modo esserne ritenuta corresponsabile. Ogni reclamo o richiesta relativa alle promozioni deve quindi essere indirizzata direttamente ed esclusivamente all`operatore.
+    &lt;h1>Disponibilità e qualità del servizio&lt;/h1>
+    Il servizio Recarga Cubacel è disponibile 24h al giorno, 7gg alla settimana.
+    Il titolare del servizio Recarga Cubacel è esclusivamente un intermediario: non fornisce servizi di telecomunicazione ed è esclusivamente un rivenditore di servizi di telecomunicazione prepagati, resi disponibili da fornitori terzi o da altri distributori o da aggregatori degli operatori di telecomunicazioni da cui il servizio viene generato.
+    Il Titolare del servizio non è il garante dei servizi che vengono forniti dagli operatori di telecomunicazioni.
+    Eventuali controversie riguardanti la qualità, il valore delle ricariche, i costi, la scadenza o altri eventuali termini devono essere gestite direttamente dall`utente nei confronti dell`operatore di telecomunicazioni.
+    &lt;h1>Limitazioni d`uso&lt;/h1>
+    Non è possibile vendere o tentare di vendere il servizio (o parte di esso) a terzi o tentare di sfruttare il servizio per fini commerciali.
+    L`utilizzo fraudolento del servizio è reato e viene effettuato in violazione della legge.
+    È interdetto ogni utilizzo difforme dalle istruzioni fornite e il semplice tentativo di un utilizzo mirato a manomissione, hacking, modifica verrà punito a norma di legge.
+    L`utente si impegna a non pubblicare o trasferire al nostro sito web (né includere nei messaggi trasmessi ai contatti del servizio) materiale che sia osceno, fuorviante, diffamatorio, illegale, in violazione del copyright o di altra proprietà intellettuale o potenzialmente dannoso per l`integrità del software, per la conservazione dei dati e per la salvaguardia delle prestazioni del sistema informatico, nostro o di qualsiasi terza parte.
+    L`utente a priori acconsente ad indennizzare il Titolare del Servizio in relazione a qualsiasi responsabilità, perdita, spesa o costo di qualsiasi sorta sostenuto a seguito di una violazione dell`impegno preso, tra cui, ma non solo, tutte le eventuali pretese avanzate nei nostri confronti da parte di terzi.
+    Per ogni richiesta l`utente del sito www.recargacubacel.it può in ogni momento inviare le proprie osservazioni tramite l`apposito modulo oppure contattare telefonicamente l`assistenza clienti al numero italiano 02 2640998, attivo nei giorni feriali dalle 9 alle 19.
+    I termini di utilizzo del sito sono soggetti a modifiche in qualsiasi momento a discrezione esclusiva del fornitore del serviio.
+"</string>
+    <string name="conditions_accept">Terms &amp; conditions</string>
+    <string name="conditions_message">By using the app I agree with <u>terms &amp; conditions</u></string>
+    <string name="banner_title">Cubacel Offer x2</string>
+    <string name="banner_text_1">RECARGUE</string>
+    <string name="banner_text_20">20 CUC</string>
+    <string name="banner_text_2">RECIBA</string>
+    <string name="banner_text_30">30 CUC</string>
+    <string name="banner_text_40">40 CUC</string>
+    <string name="banner_text_50">50 CUC</string>
+    <string name="banner_text_60">60 CUC</string>
+    <string name="banner_text_100">100 CUC</string>
+    <string name="banner_text_3">RECARGA DE CELULARES EN CUBA&lt;br />Duplicamos su recarga&lt;br />Oferta De Tiempo Limitado</string>
+    <string name="banner_from_to">from %1$s to %2$s</string>
+    <string name="btn_ok">OK</string>
+    <string name="empty_voucher_title">Error</string>
+    <string name="empty_voucher_text">Insufficient PIN balance.</string>
+    <string name="share_text">Try SIMPLE-FAST-SECURE application Recarga Cubacel to recharge mobiles from your smartphone with no additional costs!</string>
+    <string name="share_subject">Recharge Cubacel</string>
+    <string name="share_using">Share via</string>
+    <string name="no_net">You have no internet connection.</string>
+    <string name="sms_note">If you want top up mobile by <b>SMS</b>, enter the recipient mobile phone number.\nThe result of mobile recharge will be sent to you by SMS.</string>
+    <string name="sms_number">SMS number</string>
+    <string name="sms_result_title">Your SMS information</string>
+    <string name="pin_number_result">PIN number</string>
+    <string name="wrong_qr_code">Wrong QR code</string>
+    <string name="show_details">Details</string>
+
+    <string-array name="topics">
+        <item>Website</item>
+        <item>Application</item>
+        <item>Top up by phone</item>
+        <item>Top up by SMS</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="errors_cat_S">
+        <item>Error code|Final|Restart|Description: Not used</item>
+        <item>S01|1|0|Wrong hash</item>
+        <item>S02|1|0|Wrong merchant</item>
+        <item>S03|0|0|PIN not found</item>
+        <item>S04|0|0|Please, check mobile number</item>
+        <item>S05|1|0|Wrong tid</item>
+        <item>S06|0|1|Sorry, your top up failed</item>
+    </string-array>
+    <string-array name="errors_cat_P">
+        <item>Error code|Final|Restart|Description: Not used</item>
+        <item>P01|1|0|Missing function</item>
+        <item>P02|1|0|Unknown function</item>
+        <item>P03|1|0|Missing hash</item>
+        <item>P04|1|0|Missing voucher</item>
+        <item>P05|0|0|Please, check PIN number</item>
+        <item>P06|0|0|Please, check mobile number</item>
+        <item>P07|0|0|Please, enter mobile number</item>
+        <item>P08|1|0|Missing merchant</item>
+        <item>P09|1|0|Missing tid</item>
+        <item>P10|1|0|Wrong format of tid</item>
+        <item>P11|0|0|Please, enter first name</item>
+        <item>P12|0|0|Please, check</item>
+        <item>P13|0|0|Please, enter last name</item>
+        <item>P14|0|0|Please, check</item>
+        <item>P15|0|0|Please, enter topic</item>
+        <item>P16|0|0|Please, check</item>
+        <item>P17|0|0|Please, enter message</item>
+        <item>P18|0|0|Please, check message</item>
+        <item>P19|0|0|Please, enter email</item>
+        <item>P20|0|0|Please, check email</item>
+    </string-array>
+    <string-array name="errors_cat_X">
+        <item>Error code|Final|Restart|Description: Not used</item>
+        <item>X01|1|0|Unexpected problem</item>
+    </string-array>
+    <string name="message">Message</string>
+
+    <string name="title_activity_preloader">PreloaderActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

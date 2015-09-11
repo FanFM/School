@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="colorPrimary">@color/white</item>-->
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="popupTheme">@style/PopupStyle</item>
+        <item name="editTextStyle">@style/EditTextStyle</item>
+        <item name="toolbarStyle">@style/ToolbarStyle</item>
+        <item name="android:textViewStyle">@style/TextViewStyle</item>
+        <!--<item name="buttonStyle">@style/MaterialTheme.Widget.Button.Default</item>-->
+
+
+    </style>
+
+    <style name="ToolbarStyle" parent="Base.Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/theme_color</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="PopupStyle" parent="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+
+    <style name="TextViewStyle" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:minHeight">48dip</item>
+    </style>
+
+    <!--<style name="MaterialTheme.Widget" />-->
+    <!--<style name="MaterialTheme.Widget.Button.Default">-->
+        <!--<item name="android:background">@drawable/button_default</item>-->
+        <!--<item name="android:textColor">@color/white</item>-->
+        <!--<item name="android:textAppearance">@style/TextAppearance.AppCompat.Button</item>-->
+        <!--<item name="android:minHeight">48dip</item>-->
+        <!--<item name="android:minWidth">88dip</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="android:clickable">true</item>-->
+        <!--<item name="android:padding">10dp</item>-->
+        <!--<item name="android:gravity">center_vertical|center_horizontal</item>-->
+    <!--</style>-->
+
+    <!--<style name="MaterialTheme.Widget.Button.Back.Default">-->
+        <!--<item name="android:background">@drawable/button_back_default</item>-->
+        <!--<item name="android:textColor">@color/theme_color</item>-->
+        <!--<item name="android:textAppearance">@style/TextAppearance.AppCompat.Button</item>-->
+        <!--<item name="android:minHeight">48dip</item>-->
+        <!--<item name="android:minWidth">88dip</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="android:clickable">true</item>-->
+        <!--<item name="android:padding">10dp</item>-->
+        <!--<item name="android:gravity">center_vertical|center_horizontal</item>-->
+    <!--</style>-->
+
+    <!--<style name="MaterialTheme.Widget.Button.Share.Default">-->
+        <!--<item name="android:background">@drawable/button_share_default</item>-->
+        <!--<item name="android:textColor">@color/white</item>-->
+        <!--<item name="android:textAppearance">@style/TextAppearance.AppCompat.Button</item>-->
+        <!--<item name="android:minHeight">48dip</item>-->
+        <!--<item name="android:minWidth">88dip</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="android:clickable">true</item>-->
+        <!--<item name="android:padding">10dp</item>-->
+        <!--<item name="android:gravity">center_vertical|center_horizontal</item>-->
+    <!--</style>-->
+
+    <style name="spinner_style" >
+    <item name="android:background">@color/white</item>
+    <item name="android:layout_marginLeft">10dp</item>
+    <item name="android:layout_marginRight">10dp</item>
+    <item name="android:layout_marginBottom">10dp</item>
+    <item name="android:paddingLeft">8dp</item>
+    <item name="android:paddingTop">5dp</item>
+    <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+
+    <!-- Backward-compatible version of ?android:attr/buttonBarStyle -->
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <!-- Backward-compatible version of ?android:attr/buttonBarButtonStyle -->
+    <style name="ButtonBarButton"/>
+</resources>

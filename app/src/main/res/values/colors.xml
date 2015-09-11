@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="red">#cb1515</color>
+    <color name="green">#14901a</color>
+    <color name="theme_color">#002a8f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#D0D0D0</color>
+    <color name="primary_text">#333333</color>
+    <color name="secondary_text">#6f6f6f</color>
+    <color name="primary_dark">#1a237e</color>
+    <color name="button_background">@color/theme_color</color>
+    <color name="button_background_pressed">#01257d</color>
+    <color name="button_background_disabled">#f3f4f9</color>
+
+    <color name="button_back_background">#eceff1</color>
+    <color name="button_back_background_pressed">#e0e0e0</color>
+    <color name="button_back_background_disabled">#f3f4f9</color>
+
+    <color name="button_share_background">#5e35b1</color>
+    <color name="button_share_background_pressed">#4527a0</color>
+    <color name="button_share_background_disabled">#f3f4f9</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
